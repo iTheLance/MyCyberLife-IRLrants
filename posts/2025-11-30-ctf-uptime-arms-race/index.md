@@ -1,12 +1,3 @@
----
-title: "How Our \"Chill\" CTF Turned Into an Uptime Arms Race"
-date: 2025-11-30
-authors: ["AbdulAzeez AbdulHakeem"]
-tags: ["ctf", "attack-defense", "web-security", "xss", "api-hacking", "burpsuite", "red-team", "tokens", "uptime"]
-cover_image: "https://cdn-images-1.medium.com/max/800/1*lsa7WKS9-tlLtth8DLfrPA.jpeg"
-medium_url: "https://medium.com/@ithelance/how-our-chill-ctf-turned-into-an-uptime-arms-race-f3af76f6e82e"
----
-
 # How Our "Chill" CTF Turned Into an Uptime Arms Race
 
 **Role:** Red team and *accidental uptime engineer*
