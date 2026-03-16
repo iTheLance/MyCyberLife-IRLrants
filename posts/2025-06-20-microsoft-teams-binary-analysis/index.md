@@ -1,12 +1,3 @@
----
-title: "How Microsoft Teams Desktop Application works Under the Hood: A Binary Analysis"
-date: 2025-06-20
-authors: ["Tomiwa", "Damilola", "AbdulAzeez"]
-tags: ["binary-analysis", "reverse-engineering", "static-analysis", "dynamic-analysis", "windows", "malware-analysis", "microsoft-teams", "cybersecurity"]
-cover_image: "https://cdn-images-1.medium.com/max/800/1*MgoEys5wGuz-yJBwpVui1g.png"
-medium_url: "https://medium.com/@ithelance/how-microsoft-teams-works-under-the-hood-a-binary-analysis-179bf6b8ab8b"
----
-
 # How Microsoft Teams Desktop Application works Under the Hood: A Binary Analysis
 
 *By Tomiwa, Damilola & AbdulAzeez | June 17, 2025*
