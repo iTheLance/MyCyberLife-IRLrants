@@ -1,12 +1,3 @@
----
-title: "Docker Alone Isn't Enough, Meet Kubernetes"
-date: 2025-08-24
-authors: ["AbdulAzeez AbdulHakeem"]
-tags: ["kubernetes", "docker", "devops", "containers", "microservices", "cloud-native", "orchestration", "infrastructure"]
-cover_image: "https://cdn-images-1.medium.com/max/800/1*iOh_BZJ653CsplFNJk6y8Q.jpeg"
-medium_url: "https://medium.com/@ithelance/docker-alone-isnt-enough-meet-kubernetes-08293e625f8b"
----
-
 # Docker Alone Isn't Enough, Meet Kubernetes
 
 ## Introduction
